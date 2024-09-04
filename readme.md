@@ -28,21 +28,26 @@ This project is a URL shortener application built using Node.js and EJS. It prov
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/url-shortener.git
-Navigate to the project directory
+   git clone https://github.com/yashbhardwaj11/url-shortner.git
+   ```
+   
+2. **Navigate to the project directory**
 
   ```bash
   cd url-shortener
+  ```
 
-2. **Install dependencies**
+3. **Install dependencies**
 
   ```bash
     npm install
+  ```
 
-3. **Run the application**
+4. **Run the application**
 
   ```bash
     npm start
+  ```
 
 ### Login Page
 
